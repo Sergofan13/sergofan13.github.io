@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="style.css">
+    permalink: /Index.html
 </head>
     <body>
     <header>
@@ -28,15 +29,7 @@
             <button>Заказать</button>
         </article>
     </section>
-    <main>
-        <h1>Emmet</h1>
-        <ul>
-            <li>Быстрый</li>
-            <li>Удобный</li>
-            <li>Нескучные обои</li>
-        </ul>
-        <p>Emmet помогает мне писать верстку быстрее</p>
-    </main>
+    <main></main>
     main>h1{Emmet}+(ul>li{Быстрый}+li{Удобный}+li{Нескучные обои})p{Emmet помогает мне писать верстку быстрее}*10
 </body>
 </html>
